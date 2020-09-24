@@ -24,11 +24,11 @@ My homework in the Image Processing course
 - **Q1: [Texture Synthesis - Random](HW4/Q1.py)**
 - **Q2: [Texture Synthesis - Template Matching](HW4/Q2.py)**
 - **Q3: [Texture Synthesis - Random Template Matching](HW4/Q3.py)**
-- **Q4: [Texture Transfer](HW3/Q4.py)**
-- **Q5: [Optical Flow](HW3/Q5.py)**
+- **Q4: [Texture Transfer](HW4/Q4.py)**
+- **Q5: [Optical Flow](HW4/Q5.py)**
 
 ### HW5 - [[problems](HW5/hw5.pdf)][[report](HW5/report.pdf)]
 - **Q1: [Poisson Image Blending](HW5/Q1.py)**
-- **Q2: [Image Morphing](HW4/Q2.py)**
+- **Q2: [Image Morphing](HW5/Q2.py)**
 
 
