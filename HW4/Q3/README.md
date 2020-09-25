@@ -1,4 +1,4 @@
 # Texture Synthesis - Template Matching
 result:
-![result](im2.jpg)
+![result](im3.jpg)
 
