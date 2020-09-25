@@ -1,4 +1,4 @@
 # Image Enhancement
 result
-![result](HW1/Q1/1.jpg)
+![result](1.jpg)
 
