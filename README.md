@@ -1,5 +1,5 @@
 # Image Processing
-My homework in the Image Processing course
+My homework in Image Processing course
 
 ### HW1
 - **Q1: [Image Enhancement](HW1/Q1)**
