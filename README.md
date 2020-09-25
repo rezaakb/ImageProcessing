@@ -23,7 +23,7 @@ My homework in the Image Processing course
 ### HW4 - [[problems](HW4/hw4.pdf)][[report](HW4/report.pdf)]
 - **Q1: [Texture Synthesis - Random](HW4/Q1.py)**
 - **Q2: [Texture Synthesis - Template Matching](HW4/Q2.py)**
-- **Q3: [Texture Synthesis - Random Template Matching](HW4/Q3.py)**
+- **Q3: [Texture Synthesis - min-cut](HW4/Q3.py)**
 - **Q4: [Texture Transfer](HW4/Q4.py)**
 - **Q5: [Optical Flow](HW4/Q5.py)**
 
