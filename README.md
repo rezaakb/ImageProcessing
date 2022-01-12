@@ -28,7 +28,7 @@ My homework in Image Processing course
 - **Q5: [Optical Flow](HW4/Q5)**
 
 ### HW5 
-- **Q1: [Poisson Image Blending](HW5/Q1) [[report]](HW5/Q1/report.pdf)**
+- **Q1: [Poisson Image Blending](HW5/Q1)**
 - **Q2: [Image Morphing](HW5/Q2)**
 
 
